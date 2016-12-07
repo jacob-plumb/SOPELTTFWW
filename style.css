@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  color: #ffffff;
+  font-family: monospace, Helvetica;
+  background: #ffffff;
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+div {
+  background-color: #000000;
+  width: 500px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  background-color: #000000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.header {
+  margin-bottom: 20px;
+}
