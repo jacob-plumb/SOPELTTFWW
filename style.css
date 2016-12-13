@@ -9,19 +9,25 @@ body {
 }
 
 div {
-  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.8);
   width: 500px;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 10px;
   padding-right: 10px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
 }
 
 h1 {
-  background-color: #000000;
+  background-color: rgba(0, 0, 0, 0.8);
   padding-top: 10px;
   padding-bottom: 10px;
+  border-radius: 50px;
+}
+
+img {
+  border-radius: 5px;
 }
 
 .header {
